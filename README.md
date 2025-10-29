@@ -1,8 +1,8 @@
-# Creating-a-Password-Manager
+# Secure Credential Management System
 
 ## Objective
 
-This project will be focusing on creating a password manager that will salt passwords and encrypt data at rest. It will mainly be focused on both security and funcitonality with less emphasis on the actual user interface. As the project progresses, I may attempt to integrate a logging system that will track when an account is created, edited, or viewed that will integrate with Splunk.
+This project will be focusing on creating a secure credential management system. It will mainly be focused on both security and funcitonality with less emphasis on the actual user interface. My original plan was to create a password manager but I think it aligns more with a secure credential management system. One main goal of this project is to improve/showcase my security engineering skillset.
 
 ### Skills Learned/Improved
 
@@ -14,4 +14,10 @@ This project will be focusing on creating a password manager that will salt pass
 
 # Steps
 
-- This is where the steps will be listed upon updating
+- This will be updated shortly with the initial roadmap for the project
+
+---
+## ⚠️ Security Disclaimer
+This repository is for educational and demonstration purposes only.
+All future credentials, tokens, and configurations are placeholders.
+Do **not** use any future code in production without additional hardening.
