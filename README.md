@@ -19,7 +19,7 @@ This project will be focusing on creating a secure credential management system.
 - To quickly list the basic functions/capabilities I wanted the system to have:
 	- Code written in python for the functionality
 	- Connected to a MySQL database which would encrypt the data at rest
-	- All passwords would be hashed and salted
+	- All credentials would be hashed and salted
 	- Create a logging system for each time an account is created, edited, or viewed
 	- Send logs to Splunk
 - Now moving into the actual roadmap for the project, the sections are split into phases with each phase containing a goal, tasks, and deliverables
