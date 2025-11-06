@@ -12,6 +12,8 @@ This project will be focusing on creating a secure credential management system.
 
 - Placeholder tool/tech
 
+---
+
 # Steps
 
 ## Initial Roadmap
@@ -23,6 +25,9 @@ This project will be focusing on creating a secure credential management system.
 	- Create a logging system for each time an account is created, edited, or viewed
 	- Send logs to Splunk
 - Now moving into the actual roadmap for the project, the sections are split into phases with each phase containing a goal, tasks, and deliverables
+- Once started, each phase will also contain a link to their respective documentation
+
+---
 
 ### Phase 1 – Planning & Architecture
 - Goal: Establish the system’s foundation, security model, and design
@@ -40,6 +45,9 @@ This project will be focusing on creating a secure credential management system.
 	- Architecture diagram
 	- Data model design
 	- Security and logging specifications
+ - <a href="https://github.com/j-mcnelis/Secure-Credential-Management-System/blob/main/docs/phase-1.md">Phase 1 Documentation</a>
+
+---
 
 ### Phase 2 – Backend Core Development
 - Goal: Build the foundational backend services for credential management
@@ -56,6 +64,8 @@ This project will be focusing on creating a secure credential management system.
 	- MySQL schema with sample data
 	- Encrypted credential storage verified
 
+---
+
 ### Phase 3 – Encryption & Data Protection Layer
 - Goal: Ensure data confidentiality, integrity, and secure key handling
 - Tasks:
@@ -68,6 +78,8 @@ This project will be focusing on creating a secure credential management system.
 	- Working encryption module
 	- Key management documentation
 	- Encryption test results
+
+---
 
 ### Phase 4 – Logging & Auditing System
 - Goal: Enable full visibility and traceability of all system actions
@@ -88,6 +100,8 @@ This project will be focusing on creating a secure credential management system.
 	- Splunk integration working
 	- Basic Splunk dashboard and alerts
 
+---
+
 ### Phase 5 – Security Enhancements & Access Control
 - Goal: Strengthen authentication, access control, and resilience
 - Tasks:
@@ -100,6 +114,8 @@ This project will be focusing on creating a secure credential management system.
 	- Access control policy documentation
 	- MFA and session management features
 	- Verified SQL injection protection
+
+---
 
 ### Phase 6 – Testing, Validation, and Splunk Tuning
 - Goal: Verify system functionality and security compliance
@@ -114,6 +130,8 @@ This project will be focusing on creating a secure credential management system.
 	- Splunk visualizations for monitoring credential usage
 	- Final hardening checklist
 
+---
+
 ### Phase 7 – Documentation & Deployment
 - Goal: Finalize project deliverables, usability, and reproducibility
 - Tasks:
@@ -127,6 +145,8 @@ This project will be focusing on creating a secure credential management system.
 	- Full project documentation
 	- Deployment package or repository
 	- Final demo or presentation-ready system
+
+---
 
 - Any specific products/utilities mentioned above are subject to change as I begin working on each phase of the project
 - These are from initial research and by no means are definitively being used
