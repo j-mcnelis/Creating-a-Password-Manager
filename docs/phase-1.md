@@ -4,7 +4,7 @@ This is where the phase 1 documentation is going to be stored assuming this proj
 So far, it will be split into three main sections:
 - [Project Design Notes](#project-design-notes)
 - [Threat Model](#threat-model)
-- [Specific Requirements](#-specific-requirements)
+- [Specific Requirements](#specific-requirements)
 
 ---
 
